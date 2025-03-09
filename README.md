@@ -51,7 +51,8 @@ streamlit run app.py
 The model is trained on a dataset containing real and fake news articles with labels (0 = Real, 1 = Fake). The dataset includes author names, article titles, and content.
 
 ## 📌 Screenshots Data set overview
-![data set](dataset.png)
+![data set](dataset.png)   
+<br>
 🌐 **Dataset Link:** [Kaggle Data used Link](https://www.kaggle.com/c/fake-news/data?select=train.csv)
 
 
