@@ -4,3 +4,4 @@ streamlit
 numpy
 nltk
 scikit-learn
+stopwords
