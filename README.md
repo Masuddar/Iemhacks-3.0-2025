@@ -3,6 +3,8 @@
 🚀 **Project Submission for Hackoona Matata 2025**  
 📍 *IIIT Kottayam | Organized by BetaLabs*  
 
+🔗 **Try the Live Project Here:** [Fake News Detector](https://masuddar-fake-news-detector-hackoona-matata-2025.streamlit.app/)  
+
 ![Hackoona Matata 2025](home.png)
 
 ## 📌 About the Project
