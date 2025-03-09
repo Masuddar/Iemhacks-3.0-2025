@@ -1,12 +1,6 @@
-matplotlib
-pandas
 streamlit
 numpy
-nltk
+pandas
 scikit-learn
-stopwords
-PorterStemmer
-TfidfVectorizer
-train_test_split
-LogisticRegression
-accuracy_score
+matplotlib
+nltk
