@@ -226,5 +226,71 @@ with col2:
         else:
             st.warning("⚠️ Please enter a news article.")
 
+import streamlit as st
+
+# Custom CSS for sidebar styling to match theme
+st.markdown(
+    """
+    <style>
+        [data-testid="stSidebar"] {
+            background-color: #0A192F !important; /* Dark Navy */
+            padding: 20px;
+            border-right: 2px solid #1E90FF;
+        }
+        [data-testid="stSidebar"] h2 {
+            color: #F8F9FA; /* Light Grey-White */
+            text-align: center;
+            font-size: 22px;
+            font-weight: bold;
+        }
+        [data-testid="stSidebar"] a {
+            color: #1E90FF; /* Bright Blue */
+            text-decoration: none;
+            font-weight: bold;
+            transition: 0.3s;
+        }
+        [data-testid="stSidebar"] a:hover {
+            color: #FFD700; /* Gold */
+            text-shadow: 0px 0px 10px #FFD700;
+        }
+        [data-testid="stSidebar"] p {
+            color: #F8F9FA;
+            font-size: 16px;
+            margin: 10px 0;
+        }
+        [data-testid="stSidebar"] hr {
+            border: 1px solid #1E90FF;
+            margin: 15px 0;
+        }
+        [data-testid="stSidebar"] .icon {
+            margin-right: 8px;
+        }
+    </style>
+    """,
+    unsafe_allow_html=True
+)
+
+st.sidebar.markdown("---")
+st.sidebar.markdown("## 🖥️ GitHub Link")
+st.sidebar.markdown("🔗 [View on GitHub](https://github.com/Masuddar/Hackoona-Matata-2025?tab=readme-ov-file)")
+
+st.sidebar.markdown("---")
+st.sidebar.markdown("## 🎥 Video Tutorial")
+st.sidebar.markdown("📺 **Watch Here:** [YouTube Tutorial](https://www.youtube.com/)")  # Replace with actual link
+
+st.sidebar.markdown("---")
+st.sidebar.markdown("## 🤝 Connect & Support")
+st.sidebar.markdown("📧 **Email:** masuddarrahaman31@gmail.com  \n"
+                    "🌐 **My Website:** [Masuddar.in](https://masuddar.in/)  \n"
+                    "📂 **Portfolio:**  [My Portfolio](https://masuddar.netlify.app/)  \n"
+                    "🔗 **LinkedIn:**  [My LinkedIn Profile](https://www.linkedin.com/in/masuddar-rahaman-b5044b283/)")
+
+st.sidebar.markdown("---")
+st.sidebar.markdown("## 📞 Contact the Organisers")
+st.sidebar.markdown("🏛 **IIIT Kottayam - BetaLabs**  \n"
+                    "📩 **Email:** techclub@iiitkottayam.ac.in  \n"
+                    "📱 **Phone:** +91 9100862186")
+
+
 st.markdown("---")
 st.markdown("<div class='footer'>By Masuddar Rahaman</div>", unsafe_allow_html=True)
