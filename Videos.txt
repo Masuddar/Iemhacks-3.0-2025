@@ -1,0 +1,13 @@
+Video 1: AI-Powered Fake News Detector | Live Demo & Accuracy Test 🚀
+This video showcases a live demo of the AI-powered Fake News Detector in action. Watch as the system analyzes news articles, detects fake news with high accuracy, and provides instant results. Featuring real-time predictions, dataset insights, and model performance evaluation. Stay tuned for an in-depth look at the core functionality!
+
+Live Demo
+https://youtu.be/MmKO5bxPjMA?list=PLAcfidRXNkeXaPTA6I2r3w2pWj31Be9ZZ
+
+
+
+Video 2: AI-Powered Fake News Detector | Full Project Presentation 🎯
+This video presents a comprehensive walkthrough of the Fake News Detector project. It covers the project’s motivation, dataset selection, AI model training, algorithm workflow, and performance evaluation. Get a deep dive into how the system processes text, uses machine learning to detect misinformation, and delivers accurate results. Perfect for those interested in AI, NLP, and cybersecurity!
+
+Full Project Presentation
+https://www.youtube.com/watch?v=LbZ4XBrdtMc&list=PLAcfidRXNkeXaPTA6I2r3w2pWj31Be9ZZ&index=2&pp=gAQBiAQB
