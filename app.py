@@ -3,6 +3,8 @@ import numpy as np
 import re
 import pandas as pd
 import matplotlib.pyplot as plt
+import nltk
+nltk.download('stopwords')
 from nltk.corpus import stopwords
 from nltk.stem.porter import PorterStemmer
 from sklearn.feature_extraction.text import TfidfVectorizer
