@@ -1,6 +1,6 @@
 # 📰 Fake News Detector
 
-🚀 **Winning Project Submission for Hackoona Matata 2025**  
+🚀 **Project Submission for Hackoona Matata 2025**  
 📍 *IIIT Kottayam | Organized by BetaLabs*  
 
 ![Hackoona Matata 2025](home.png)
@@ -52,6 +52,8 @@ The model is trained on a dataset containing real and fake news articles with la
 
 ## 📌 Screenshots Data set overview
 ![data set](dataset.png)
+🌐 **Dataset Link:** [Kaggle Data used Link](https://www.kaggle.com/c/fake-news/data?select=train.csv)
+
 
 ## 🏆 Hackoona Matata 2025 Details
 - **Event:** Hackoona Matata 2025
