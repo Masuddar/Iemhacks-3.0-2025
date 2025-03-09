@@ -3,7 +3,7 @@
 🚀 **Winning Project Submission for Hackoona Matata 2025**  
 📍 *IIIT Kottayam | Organized by BetaLabs*  
 
-![Hackoona Matata 2025](https://your-image-link.com)
+![Hackoona Matata 2025](home.png)
 
 ## 📌 About the Project
 
@@ -50,8 +50,8 @@ streamlit run app.py
 ## 📊 Dataset Used
 The model is trained on a dataset containing real and fake news articles with labels (0 = Real, 1 = Fake). The dataset includes author names, article titles, and content.
 
-## 📌 Screenshots
-![App Interface](https://your-image-link.com)
+## 📌 Screenshots Data set overview
+![data set](dataset.png)
 
 ## 🏆 Hackoona Matata 2025 Details
 - **Event:** Hackoona Matata 2025
@@ -59,17 +59,17 @@ The model is trained on a dataset containing real and fake news articles with la
 - **Duration:** March 7-9, 2025
 
 ## 👨‍💻 Team & Contributors
-- **[Your Name]** - Lead Developer 🎯
-- **[Other Team Members]** (if applicable)
+- **Masuddar Rahaman** - Sole Developer & AI Researcher 🎯
+
 
 ## 🤝 Connect & Support
-📧 **Email:** [Your Email]  
-🌐 **Portfolio:** [Your Website]  
-🔗 **LinkedIn:** [Your LinkedIn Profile]  
+📧 **Email:** masuddarrahaman31@gmail.com  <br>
+🌐 **My Website:** [My Website Link](https://masuddar.in/)  <br>
+🌐 **Portfolio:** [my portfolio link](https://masuddar.netlify.app/)    <br>
+🔗 **LinkedIn:** [My LinkedIn Profile](https://www.linkedin.com/in/masuddar-rahaman-b5044b283/)
+<br> 
 
-## ⭐ Contribute & Star 🌟
-If you find this project helpful, give it a **star ⭐** on GitHub!
+# Thank you for your time
 
----
 🚀 *"Fighting Fake News with AI!"*
 
