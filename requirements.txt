@@ -5,3 +5,8 @@ numpy
 nltk
 scikit-learn
 stopwords
+PorterStemmer
+TfidfVectorizer
+train_test_split
+LogisticRegression
+accuracy_score
