@@ -9,6 +9,17 @@
 
 In an era of misinformation, this **AI-powered Fake News Detector** helps identify and prevent the spread of fake news using **Machine Learning and Natural Language Processing (NLP)**. The model leverages **Logistic Regression with TF-IDF vectorization** to classify news articles as **Real or Fake**.
 
+## 📌 Video Demo  
+
+### 🔴 Live Demo  
+[![Live Demo](https://img.youtube.com/vi/MmKO5bxPjMA/0.jpg)](https://youtu.be/MmKO5bxPjMA?list=PLAcfidRXNkeXaPTA6I2r3w2pWj31Be9ZZ)  
+🎥 Watch the AI-powered Fake News Detector in action with real-time predictions and accuracy testing!  
+
+### 🎯 Full Project Presentation  
+[![Full Project Presentation](https://img.youtube.com/vi/LbZ4XBrdtMc/0.jpg)](https://www.youtube.com/watch?v=LbZ4XBrdtMc&list=PLAcfidRXNkeXaPTA6I2r3w2pWj31Be9ZZ&index=2&pp=gAQBiAQB)  
+📊 A complete walkthrough of the project, covering its motivation, dataset, model training, and performance evaluation.  
+
+
 ## ⚡ Features
 ✅ **Machine Learning Model** (Logistic Regression with TF-IDF)  
 ✅ **Streamlit Web App** for easy access  
