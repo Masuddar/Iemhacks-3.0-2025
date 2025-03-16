@@ -69,11 +69,6 @@ The model is trained on a dataset containing real and fake news articles with la
 🌐 **Dataset Link:** [Kaggle Data used Link](https://www.kaggle.com/c/fake-news/data?select=train.csv)
 
 
-## 🏆 Hackoona Matata 2025 Details
-- **Event:** Hackoona Matata 2025
-- **Organizer:** BetaLabs, IIIT Kottayam
-- **Duration:** March 7-9, 2025
-
 ## 👨‍💻 Team & Contributors
 - **Masuddar Rahaman** - Sole Developer & AI Researcher 🎯
 
