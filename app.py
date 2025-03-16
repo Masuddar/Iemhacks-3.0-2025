@@ -178,7 +178,7 @@ st.sidebar.markdown(
     unsafe_allow_html=True
 )
 
-st.image("banner.png", use_container_width=True)
+st.image("home.png", use_container_width=True)
 st.markdown("<h2 class='title-text'>📰 Fake News Detector</h2>", unsafe_allow_html=True)
 st.markdown(f"<div class='custom-box'>Model Accuracy: <b>{accuracy:.2f}%</b></div>", unsafe_allow_html=True)
 
@@ -278,7 +278,7 @@ st.sidebar.markdown("🔗 [View on GitHub](https://github.com/Masuddar/Hackoona-
 
 st.sidebar.markdown("---")
 st.sidebar.markdown("## 🎥 Video Tutorial")
-st.sidebar.markdown("📺 **Watch Here:** [YouTube Tutorial](https://www.youtube.com/)")  # Replace with actual link
+st.sidebar.markdown("📺 **Watch Here:** [YouTube Tutorial](https://www.youtube.com/watch?v=MmKO5bxPjMA&list=PLAcfidRXNkeXaPTA6I2r3w2pWj31Be9ZZ/)")  # Replace with actual link
 
 st.sidebar.markdown("---")
 st.sidebar.markdown("## 🤝 Connect & Support")
@@ -291,7 +291,8 @@ st.sidebar.markdown("---")
 st.sidebar.markdown("## 📞 Contact the Organisers")
 st.sidebar.markdown("🏛 **Iemhacks 3.0**  \n"
                     # "📩 **Email:** techclub@iiitkottayam.ac.in  \n"
-                    "📱 **Phone:** +91 xxxxxxxx")
+                    "🔗 **Link:**  [Unstop Link](https://unstop.com/hackathons/iemhacks-30-institute-of-engineering-and-mangement-kolkata-west-bengal-1400719?utm_campaign=o_1400719&utm_source=Public&utm_medium=D2C-Customized)"
+                    "📱 **Phone:** +91 Xxxxxxxx")
 
 
 st.markdown("---")
