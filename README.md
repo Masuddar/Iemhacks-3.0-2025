@@ -3,7 +3,7 @@
 🚀 **Project Submission for Iemhacks-3.0 2025**  
 📍 *Iemhacks-3.0*
 
-🔗 **Try the Live Project Here:** [Fake News Detector](https://masuddar-fake-news-detector-hackoona-matata-2025.streamlit.app/)  
+🔗 **Try the Live Project Here:** [Fake News Detector](https://iemhacks-30-2025-masuddar-rahaman.streamlit.app/)  
 
 ![Iemhacks-3.0 2025](home.png)
 
