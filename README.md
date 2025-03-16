@@ -14,12 +14,13 @@ In an era of misinformation, this **AI-powered Fake News Detector** helps identi
 ## 📌 Video Demo  
 
 ### 🔴 Live Demo  [41 Second]
-[![Live Demo](https://img.youtube.com/vi/MmKO5bxPjMA/0.jpg)](https://youtu.be/MmKO5bxPjMA)  
+[![Live Demo](https://i.ytimg.com/vi/MmKO5bxPjMA/maxresdefault.jpg)](https://youtu.be/MmKO5bxPjMA)  
 🎥 Watch the AI-powered Fake News Detector in action with real-time predictions and accuracy testing!  
 
 ### 🎯 Full Project Presentation  [04 Min 36 Sec]
-[![Full Project Presentation](https://img.youtube.com/vi/LbZ4XBrdtMc/0.jpg)](https://youtu.be/LbZ4XBrdtMc)  
+[![Full Project Presentation](https://i.ytimg.com/vi/LbZ4XBrdtMc/maxresdefault.jpg)](https://youtu.be/LbZ4XBrdtMc)  
 📊 A complete walkthrough of the project, covering its motivation, dataset, model training, and performance evaluation.  
+
 
 
 ## ⚡ Features
