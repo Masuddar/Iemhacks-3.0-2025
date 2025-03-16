@@ -292,7 +292,7 @@ st.sidebar.markdown("## 📞 Contact the Organisers")
 st.sidebar.markdown("🏛 **Iemhacks 3.0**  \n"
                     # "📩 **Email:** techclub@iiitkottayam.ac.in  \n"
                     "🔗 **Link:**  [Unstop Link](https://unstop.com/hackathons/iemhacks-30-institute-of-engineering-and-mangement-kolkata-west-bengal-1400719?utm_campaign=o_1400719&utm_source=Public&utm_medium=D2C-Customized)"
-                    "📱 **Phone:** +91 Xxxxxxxx")
+                    )
 
 
 st.markdown("---")
