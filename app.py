@@ -289,9 +289,9 @@ st.sidebar.markdown("📧 **Email:** masuddarrahaman31@gmail.com  \n"
 
 st.sidebar.markdown("---")
 st.sidebar.markdown("## 📞 Contact the Organisers")
-st.sidebar.markdown("🏛 **IIIT Kottayam - BetaLabs**  \n"
-                    "📩 **Email:** techclub@iiitkottayam.ac.in  \n"
-                    "📱 **Phone:** +91 9100862186")
+st.sidebar.markdown("🏛 **Iemhacks 3.0**  \n"
+                    # "📩 **Email:** techclub@iiitkottayam.ac.in  \n"
+                    "📱 **Phone:** +91 xxxxxxxx")
 
 
 st.markdown("---")
