@@ -1,11 +1,11 @@
 # 📰 Fake News Detector
 
-🚀 **Project Submission for Hackoona Matata 2025**  
-📍 *IIIT Kottayam | Organized by BetaLabs*  
+🚀 **Project Submission for Iemhacks-3.0 2025**  
+📍 *Iemhacks-3.0*
 
 🔗 **Try the Live Project Here:** [Fake News Detector](https://masuddar-fake-news-detector-hackoona-matata-2025.streamlit.app/)  
 
-![Hackoona Matata 2025](home.png)
+![Iemhacks-3.0 2025](home.png)
 
 ## 📌 About the Project
 
